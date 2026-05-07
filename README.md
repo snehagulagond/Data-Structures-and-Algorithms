@@ -26,4 +26,9 @@
 
 ✔ Count the number of digits
 
+### Recursion
+✔ Sum of n numbers
+
+✔ Factorialof a number
+
 (Updating regularly...)
