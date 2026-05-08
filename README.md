@@ -31,4 +31,6 @@
 
 ✔ Factorialof a number
 
+✔ Fibonacci sequence
+
 (Updating regularly...)
