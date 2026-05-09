@@ -33,4 +33,6 @@
 
 ✔ Fibonacci sequence
 
+✔ Reversing an array using recursion
+
 (Updating regularly...)
