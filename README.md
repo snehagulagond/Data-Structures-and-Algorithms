@@ -35,4 +35,5 @@
 
 ✔ Reversing an array using recursion
 
+✔ Check Palindrome using recursion
 (Updating regularly...)
