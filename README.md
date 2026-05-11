@@ -36,4 +36,6 @@
 ✔ Reversing an array using recursion
 
 ✔ Check Palindrome using recursion
+
+✔ Print all Subsequences
 (Updating regularly...)
