@@ -37,5 +37,7 @@
 
 ✔ Check Palindrome using recursion
 
-✔ Print all Subsequences
+✔ Print all Subsequences of String
+
+✔ Print all Subsequences of an array
 (Updating regularly...)
