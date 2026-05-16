@@ -13,7 +13,7 @@
 
 ✔ For loop problem
 
-✔ Patterns
+✔ All Patterns
 
 ### Arrays
 ✔ Largest Element  
