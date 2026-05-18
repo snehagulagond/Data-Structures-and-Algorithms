@@ -40,4 +40,8 @@
 ✔ Print all Subsequences of String
 
 ✔ Print all Subsequences of an array
+
+### Sorting
+✔ Sorted an array using Selection sort
+
 (Updating regularly...)
