@@ -44,4 +44,7 @@
 ### Sorting
 ✔ Sorted an array using Selection sort
 
+✔ Sorted an array using Bubble sort
+ 
+
 (Updating regularly...)
