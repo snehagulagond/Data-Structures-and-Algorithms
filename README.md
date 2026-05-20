@@ -42,9 +42,11 @@
 ✔ Print all Subsequences of an array
 
 ### Sorting
-✔ Sorted an array using Selection sort
+✔ Sorted an array using Selection Sort
 
-✔ Sorted an array using Bubble sort
+✔ Sorted an array using Bubble Sort
+
+✔ Sorted an array using Merge Sort
  
 
 (Updating regularly...)
