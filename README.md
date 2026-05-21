@@ -46,7 +46,6 @@
 
 ✔ Sorted an array using Bubble Sort
 
-✔ Sorted an array using Merge Sort
- 
+✔ Sorted an array using Insertion Sort
 
 (Updating regularly...)
