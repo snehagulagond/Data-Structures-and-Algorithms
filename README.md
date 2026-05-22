@@ -48,4 +48,6 @@
 
 ✔ Sorted an array using Insertion Sort
 
+✔ Sorted an array using Recursive Bubble Sort
+
 (Updating regularly...)
