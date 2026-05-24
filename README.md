@@ -27,6 +27,7 @@
 ✔ Count the number of digits
 
 ### Recursion
+
 ✔ Sum of n numbers
 
 ✔ Factorialof a number
@@ -50,4 +51,4 @@
 
 ✔ Sorted an array using Recursive Bubble Sort
 
-(Updating regularly...)
+(Updating regularly....)
