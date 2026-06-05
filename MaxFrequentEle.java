@@ -1,3 +1,9 @@
+//Problem: Given an array of integers, find the most frequent element and the least frequent element in the array. If there are multiple elements with the same frequency, return any one of them.
+//Solution: We can use a HashMap to count the frequency of each element in the array. Then, we can iterate through the HashMap to find the most frequent and least frequent elements.   
+//Time Complexity: O(n) where n is the number of elements in the array. We iterate through the array once to populate the HashMap and then iterate through the HashMap to find the most and least frequent elements.    
+//Space Complexity: O(n) in the worst case, if all elements in the array are unique, we will have n entries in the HashMap.
+
+
 import java.util.HashMap;
 
 public class MaxFrequentEle{
