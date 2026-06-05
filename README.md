@@ -51,4 +51,6 @@
 
 ✔ Sorted an array using Recursive Bubble Sort
 
+✔ Heightest occuring element in an array
+
 (Updating regularly....)
