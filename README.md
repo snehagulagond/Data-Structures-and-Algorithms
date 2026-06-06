@@ -53,4 +53,6 @@
 
 ✔ Heightest occuring element in an array
 
+✔ Sorted an array using Qick Sort 
+
 (Updating regularly....)
