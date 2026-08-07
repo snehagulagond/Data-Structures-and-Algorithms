@@ -55,4 +55,6 @@
 
 ✔ Sorted an array using Qick Sort 
 
+✔ Checking the array is sorted
+
 (Updating regularly....)
