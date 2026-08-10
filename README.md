@@ -26,6 +26,12 @@
 
 ✔ Count the number of digits
 
+✔ Checking the array is sorted
+
+✔ Left Rotate Array By One Place
+
+✔ Left Rotate Array By D Place
+
 ### Recursion
 
 ✔ Sum of n numbers
@@ -55,6 +61,6 @@
 
 ✔ Sorted an array using Qick Sort 
 
-✔ Checking the array is sorted
+
 
 (Updating regularly....)
