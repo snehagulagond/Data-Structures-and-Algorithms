@@ -32,6 +32,8 @@
 
 ✔ Left Rotate Array By D Place
 
+✔ Move Zeros To End
+
 ### Recursion
 
 ✔ Sum of n numbers
