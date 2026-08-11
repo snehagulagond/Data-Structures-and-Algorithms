@@ -34,6 +34,8 @@
 
 ✔ Move Zeros To End
 
+✔ Find the Union of Two Sorted Array
+
 ### Recursion
 
 ✔ Sum of n numbers
