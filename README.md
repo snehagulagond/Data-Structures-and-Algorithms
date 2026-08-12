@@ -36,6 +36,8 @@
 
 ✔ Find the Union of Two Sorted Array
 
+✔ Find Missing Number in an Array
+
 ### Recursion
 
 ✔ Sum of n numbers
