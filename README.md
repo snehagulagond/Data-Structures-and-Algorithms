@@ -38,6 +38,8 @@
 
 ✔ Find Missing Number in an Array
 
+✔ Find that single one in an Array
+
 ### Recursion
 
 ✔ Sum of n numbers
